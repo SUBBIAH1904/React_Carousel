@@ -159,10 +159,12 @@ Clean up the interval when the component unmounts using clearInterval to prevent
 ```
 
 ## OUTPUT
-<img width="1919" height="867" alt="image_64" src="https://github.com/user-attachments/assets/182ee928-f844-45a3-9c71-0379eea9bcfe" />
+### website: 
+https://react-carousel-rho.vercel.app/
+
 <img width="1919" height="867" alt="image_63" src="https://github.com/user-attachments/assets/adfc2d60-e9ee-4300-8ff4-784259189087" />
 <img width="1919" height="969" alt="image_62" src="https://github.com/user-attachments/assets/e807f648-a3dd-4dba-aaad-12f0a56ee7dd" />
-
+<img width="1919" height="867" alt="image_64" src="https://github.com/user-attachments/assets/182ee928-f844-45a3-9c71-0379eea9bcfe" />
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
